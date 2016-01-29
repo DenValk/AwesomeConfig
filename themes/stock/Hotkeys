@@ -1,0 +1,25 @@
+Next Tag	Modkey	Right
+Prev Tag	Modkey	Left
+Focus Next	alt	k
+Focus Prev	alt	j
+FocusNextScreen	alt	h
+FocusPrevScreen	alt	l
+Focus Dir	Modkey	i,j,k,l
+AwesomeMenu	Modkey	w
+Show/HideWi	Modkey	b
+MoveCurrentUp	Mod3	j
+MoveCurrentDn	Mod3	k
++1Column	Modkey	Ctrl	l
+-1Column	Modkey	Ctrl	h
+Layout Next	Modkey	Space
+Terminal	Modkey	Return
+RestartAwesome	Modkey	Ctrl	R
+QuitAwesome	Modkey	Shift	Q
+Show IO		Mod3	D
+Show Calendar	Mod3	C
+ShowWeatehr	Mod3	S
+VolumeUP	Ctrl	Alt	UP
+VolumeDn	Ctrl	Alt	DN
+Mute		Alt	M
+Conky		Mod3	Space
+
